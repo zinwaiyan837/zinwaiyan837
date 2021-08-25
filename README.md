@@ -1,4 +1,4 @@
-![alt text]{https://github.com/zinwaiyan837/zinwaiyan837/blob/main/programming-code-coding-hacker-background-260nw-1714491562.jpg}
+![alt text](https://github.com/zinwaiyan837/zinwaiyan837/blob/main/programming-code-coding-hacker-background-260nw-1714491562.jpg)
 <h1 align="center">Hi 👋, I'm Zin Wai Yan</h1>
 <h3 align="center">Web Developer</h3>
 
